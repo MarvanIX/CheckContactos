@@ -1,0 +1,5 @@
+C:\UpdatingTest\published\WinFormsApp1.exe
+C:\UpdatingTest\published\WinFormsApp1.dll
+C:\UpdatingTest\published\WinFormsApp1.deps.json
+C:\UpdatingTest\published\WinFormsApp1.runtimeconfig.json
+C:\UpdatingTest\published\WinFormsApp1.pdb
